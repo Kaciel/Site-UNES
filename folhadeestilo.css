@@ -50,13 +50,17 @@ a {
 a:link {
     color: black;
 }
-a:hover {
-    color: rgb(201, 117, 6);
-}    
-a:active {
+  
+
+a:visited {
     color: black;
 }
-a:visited {
+
+a:hover {
+    color: rgb(201, 117, 6);
+}  
+
+a:active {
     color: black;
 }
 

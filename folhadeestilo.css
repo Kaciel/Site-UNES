@@ -59,3 +59,8 @@ a:active {
 a:visited {
     color: black;
 }
+
+form {
+    font-weight: bold;
+    
+}
